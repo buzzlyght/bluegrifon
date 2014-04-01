@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>menu</title>
+  </head>
+  <body style="     background-color: #cccccc;">
+    <p style="text-align: center;"><span style="font-family: sans-serif;"><span
+          style="font-style: italic;"><span style="text-decoration: underline;"><span
+              style="font-weight: bold;">Bienvenido a la Superweb</span></span></span></span></p>
+    <table style="width: 100%" border="1">
+      <tbody>
+        <tr>
+          <td colspan="1" rowspan="5"> <video> <source src="BlueGriffon.mp4"
+            type="video/mp4"/> </video><br>
+          </td>
+          <td style="width: 86.667px;"><img style="width: 88px; height: 41px;" alt="ciudad"
+              src="ciudad.gif"><br>
+          </td>
+          <td style="width: 618.667px;">&nbsp;Mi Ciudad<br>
+          </td>
+        </tr>
+        <tr>
+          <td><img style="width: 82px; height: 44px;" alt="aficiones" src="aficiones.gif"><br>
+          </td>
+          <td>&nbsp;Mis Aficiones<br>
+          </td>
+        </tr>
+        <tr>
+          <td><img style="width: 88px; height: 39px;" alt="enlace" src="enlace.gif"><br>
+          </td>
+          <td>&nbsp;Enlaces<br>
+          </td>
+        </tr>
+        <tr>
+          <td><img style="width: 88px; height: 53px;" alt="mapa" src="mapa.gif"><br>
+          </td>
+          <td>&nbsp;Mapa de la Web<br>
+          </td>
+        </tr>
+        <tr>
+          <td><img style="width: 88px; height: 66px;" alt="libro" src="libro.gif"><br>
+          </td>
+          <td>&nbsp;Libro de Visitas<br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p><br>
+    </p>
+    
+  </body>
+</html>
